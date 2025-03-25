@@ -22,9 +22,9 @@ This repository contains a collection of SQL queries that demonstrate a range of
 - Salary - Employee's salary
 - Dept_ID - Foreign key referencing Department
 
-  ### Department Table
-  - Department_ID - Unique identifier for each department
-  - Department_Name - Name of the department
+### Department Table
+- Department_ID - Unique identifier for each department
+- Department_Name - Name of the department
 
 
 
